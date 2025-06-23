@@ -35,8 +35,9 @@ A simple standalone Java application using Spring Framework that registers custo
 4. ✅ Run TestApp.java and follow the console prompts.
 
 ## 📸 Screenshots
-![Screenshot 2025-06-22 225442](https://github.com/user-attachments/assets/437cc511-465e-481f-9b19-4f506474c8ea)
-![Screenshot 2025-06-22 230050](https://github.com/user-attachments/assets/dff1809b-f3cb-4743-a821-86165c584930)
+![Screenshot 2025-06-22 225442](https://github.com/user-attachments/assets/9999e630-2694-42e0-ab81-f290c21b9a96)
+![Screenshot 2025-06-22 230050](https://github.com/user-attachments/assets/9005d262-1a4f-40c9-b9d7-d66fdded2e32)
+
 
 
 ## 👨‍💻 Author
